@@ -1,4 +1,4 @@
-# OX-Inventory-retexture---FiveM
+# OX_Inventory Retexture
 Ox Inventory Retexture
 
 DISCORD: https://discord.gg/GEv32QMspB
